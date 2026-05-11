@@ -1,0 +1,39 @@
+====================================
+  LISTADO DE MEDICOS - HOSPITAL
+====================================
+
+Nombre       : Dr. Carlos Ramirez
+Especialidad : Cardiologia
+Horario      : Lun-Vie 08:00-14:00
+Telefono     : 5551234567
+------------------------------------
+Nombre       : Dra. Laura Mendoza
+Especialidad : Pediatria
+Horario      : Lun-Mie-Vie 10:00-16:00
+Telefono     : 4421234567
+------------------------------------
+Nombre       : Dr. Jorge Herrera
+Especialidad : Neurologia
+Horario      : Mar-Jue 09:00-15:00
+Telefono     : 6560971294
+------------------------------------
+Nombre       : Dra. Ana Torres
+Especialidad : Dermatologia
+Horario      : Lun-Vie 11:00-17:00
+Telefono     : 4771234567
+------------------------------------
+Nombre       : Dr. Miguel Soto
+Especialidad : Traumatologia
+Horario      : Lun-Vie 07:00-13:00
+Telefono     : 6579876543
+------------------------------------
+Nombre       : Dr. Jose Acosta
+Especialidad : Urologia
+Horario      : Lun-Vie 08:00 - 14:00
+Telefono     : 6569841265
+------------------------------------
+Nombre       : Dr. Alan Gonzalez
+Especialidad : Psiquiatria
+Horario      : Lun-Mie 10:00-18:00
+Telefono     : 6564971021
+------------------------------------

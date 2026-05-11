@@ -1,0 +1,116 @@
+====================================
+  LISTADO DE PACIENTES - HOSPITAL
+====================================
+
+Nombre       : Maria Lopez
+Edad         : 34
+Domicilio    : Av Morelos 5, EDOMEX
+Telefono     : 5643619527
+Medico       : Dr. Carlos Ramirez
+Especialidad : Cardiologia
+------------------------------------
+Nombre       : Juan Garcia
+Edad         : 8
+Domicilio    : Av. Zaragoza 12, Queretaro
+Telefono     : 4427381750
+Medico       : Dra. Laura Mendoza
+Especialidad : Pediatria
+------------------------------------
+Nombre       : Rosa Perez
+Edad         : 62
+Domicilio    : Av Enrique Pinocelli, Ciudad Juarez
+Telefono     : 6568730176
+Medico       : Dr. Jorge Herrera
+Especialidad : Neurologia
+------------------------------------
+Nombre       : Luis Hernandez
+Edad         : 29
+Domicilio    : Blvd. Bernardo Quintana 10, Veracruz
+Telefono     : 2297361964
+Medico       : Dra. Ana Torres
+Especialidad : Dermatologia
+------------------------------------
+Nombre       : Sofia Martinez
+Edad         : 45
+Domicilio    : Av. 5 de Febrero 88, Irapuato
+Telefono     : 4625519844
+Medico       : Dr. Miguel Soto
+Especialidad : Traumatologia
+------------------------------------
+Nombre       : Carlos Jimenez
+Edad         : 17
+Domicilio    : Calle Laurel 7, Guadalajara
+Telefono     : 3346678612
+Medico       : Dra. Laura Mendoza
+Especialidad : Pediatria
+------------------------------------
+Nombre       : Ana Morales
+Edad         : 55
+Domicilio    : Calle El Remolino 4, Veracruz
+Telefono     : 2297819401
+Medico       : Dr. Carlos Ramirez
+Especialidad : Cardiologia
+------------------------------------
+Nombre       : Pedro Gonzalez
+Edad         : 38
+Domicilio    : Av. San Miguel 50, EDOMEX
+Telefono     : 5591873094
+Medico       : Dr. Jorge Herrera
+Especialidad : Neurologia
+------------------------------------
+Nombre       : Lucia Ramirez
+Edad         : 23
+Domicilio    : Av Reforma, CDMX
+Telefono     : 5624509431
+Medico       : Dra. Ana Torres
+Especialidad : Dermatologia
+------------------------------------
+Nombre       : Fernando Cruz
+Edad         : 71
+Domicilio    : Blvd. Aeropuerto 200, Celaya
+Telefono     : 4610199110
+Medico       : Dr. Miguel Soto
+Especialidad : Traumatologia
+------------------------------------
+Nombre       : Elena Vargas
+Edad         : 5
+Domicilio    : Calle Puerto de Palos, Ciudad Juarez
+Telefono     : 6561096778
+Medico       : Dra. Laura Mendoza
+Especialidad : Pediatria
+------------------------------------
+Nombre       : Andres Reyes
+Edad         : 49
+Domicilio    : Av. Universidad 30, Poza Rica
+Telefono     : 7829146910
+Medico       : Dr. Carlos Ramirez
+Especialidad : Cardiologia
+------------------------------------
+Nombre       : Patricia Salinas
+Edad         : 33
+Domicilio    : Calle Cipres 15, Saltillo
+Telefono     : 4449186910
+Medico       : Dr. Jorge Herrera
+Especialidad : Neurologia
+------------------------------------
+Nombre       : Roberto Castillo
+Edad         : 60
+Domicilio    : Av. Tecnologico 100, San Luis
+Telefono     : 4441094101
+Medico       : Dra. Ana Torres
+Especialidad : Dermatologia
+------------------------------------
+Nombre       : Claudia Ramos
+Edad         : 42
+Domicilio    : Calle Sauce 2, Tampico
+Telefono     : 8339827512
+Medico       : Dr. Miguel Soto
+Especialidad : Traumatologia
+------------------------------------
+Nombre       : Marlen Lopez Casas
+Edad         : 23
+Domicilio    : Senderos de San Isidro, Ciudad Juarez
+Telefono     : 6569310321
+Medico       : Dr. Miguel Soto
+Especialidad : Traumatologia
+------------------------------------
